@@ -13,7 +13,7 @@ Time Complexity: `O(n * k)`
  - `n` = length of the list of bad words.
  - `k` = length of the user input.
  
-# Limitaions 🌃
+# Limitations 🌃
 
 The only limitation in this algorithm is that sometimes, the words you want to use in a positive aspect may be blocked due to the natural behaviour of the pattern seearch algorithm. Because of this, the user may be restricted, and if so, may have to re-phrase their message in another way.
 
