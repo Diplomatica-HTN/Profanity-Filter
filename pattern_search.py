@@ -38,7 +38,7 @@ def filter():
         phrase_checker = 'You are '
         if phrase_checker in text:
             time.sleep(0.5)
-            print("Profanity found")
+            print("Profanity found. You are restricted to sending this message.")
             return
         elif checker == True:
             continue 
@@ -48,4 +48,3 @@ def filter():
     return 'No Profanity Found'
 
 
-print(filter())
