@@ -516,7 +516,7 @@ hiscock
 hitler
 hitlerism
 hitlerist
-ho
+hoe
 hobo
 hodgie
 hoes
