@@ -12,6 +12,12 @@ Note: The list of bad words is not against anything, or anyone. These words are 
 Time Complexity: `O(n * k)` 
  - `n` = length of the list of bad words.
  - `k` = length of the user input.
+
+# Blockchain ⛓
+
+Our chat system is decentralized as well. After the ending of each conversation (debate), the convo itself will be transformed into a block with a time stamp, and secured with a sha256 hash code. Each conversation will be linked under hash codes and users can retrieve information in constant time by retrieving a conversation hash (the transaction hash code). 
+
+Our local blockchain allows for a secured platform for all users to express their thoughts and learn the truth about events around the world. There is a proof-of-state, and users can try to submit proofs. There is a validation function that checks the work submitted by the user, however, if the user's proof-of-state is incorrect, there is a chance where the whole conversation may break and be separated from the chain itself. In this case, the blockchain resets itself for the user logged in.
  
 # Limitations 🌃
 
