@@ -7,7 +7,7 @@ The Algorithm behind our Ethical Profanity Filter to keep the convos positive an
 The algorithm is based off the naive pattern search algorithm. Given a list of bad words, the algorithm will check every word that the user has typed against each word in the list.
 If the word from the "bad words list" is present in the user-inputted text, the user will be restricted from sending that message, and may have to type the message again in a more positive way. 
 
-Note: The list of bad words is not against anything, or anyone. These words are a dataset of the most common disrespectful words used, and may be used for our comparisions in the alogrithm.
+Note: The list of bad words is not shown in `words.py`.
 
 Time Complexity: `O(n * k)` 
  - `n` = length of the list of bad words. (Constant and does not change)
