@@ -1,6 +1,6 @@
 # Profanity Filter 🎤✅
 
-The Algorithm behind our Ethical Profanity Filter to Keep the convos positive and ethical.
+The Algorithm behind our Ethical Profanity Filter to keep the convos positive and ethical.
 
 # Functionality ⚙️
 
